@@ -1,10 +1,25 @@
 {
-  "data": {
-    "title": 0,
-    "option": 1,
-    "subtitle": 2,
-    "hours": 3,
-    "role": 4,
-    "cost": 0
-  }
+  "result": {
+      "0": {
+      "title":  "iTunes Connect / Google Developer Console",
+      "data": [
+        {
+          "id": 0,
+          "option": 0,
+          "subtitle": "создание и настройка аккаунта",
+          "hours": 2,
+          "role": 2,
+          "cost": 0
+        },
+        {
+          "id": 0,
+          "option": 0,
+          "subtitle": "оформление страницы приложения",
+          "hours": 4,
+          "role": 2,
+          "cost": 0
+        }
+      ]
+      }
+    }
 }
